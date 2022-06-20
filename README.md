@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RenzoReccio
 - 👀 I’m interested in Angular, .NET
-- 🌱 I’m currently learning Ruby and React
+- 🌱 I’m currently learning Microservices and RabbitMQ
 - 📫 How to reach me: reccio88@gmail.com
 
 <!---
